@@ -1,0 +1,28 @@
+.navigation{
+    background-color: rgb(3, 155, 229);
+}
+
+.block-intro {
+    /* height: 100px; */
+    background-color: rgb(3, 155, 229);
+    background-image: url("../a.png");
+    min-height: 500px;
+    /* margin-right: 50px; */
+}
+
+.block-offers {
+    height: 100px;
+    background-color: rgb(3, 155, 229);
+}
+
+.footer {
+    height: 100px;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
